@@ -33,6 +33,7 @@ public interface IPrint{
 public interface IScan{
     void Scan();
 }
+
 public interface IFax{
     void Fax();
 }

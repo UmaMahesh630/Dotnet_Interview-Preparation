@@ -32,6 +32,7 @@ public class OrderService{
         order.SendEmail();
     }
 }
+
 public class EmailService{
     public void SendEmail(OrderService order){
 

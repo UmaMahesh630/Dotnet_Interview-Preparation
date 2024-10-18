@@ -15,6 +15,7 @@ public class AdminUSer : User{
         //
     }
 }
+
 public class GuseUSer : User{
     public override void ResetPassword()
     {
